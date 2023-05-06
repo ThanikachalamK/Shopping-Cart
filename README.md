@@ -1,5 +1,5 @@
 # Shopping-Cart
-Online Shopping Cart for Vegitables
+Online Shopping Cart for Vegetables
 
 # Getting Started with Create React App
 
